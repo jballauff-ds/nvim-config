@@ -2,9 +2,9 @@
 
 ## Sources:
 
-<https://github.com/nvim-lua/kickstart.nvim>
-<https://github.com/josean-dev/dev-environment-files>
-<https://github.com/bcampolo/nvim-starter-kit/tree/java#neovim-starter-kit-for-java->
+<https://github.com/nvim-lua/kickstart.nvim>\
+<https://github.com/josean-dev/dev-environment-files>\
+<https://github.com/bcampolo/nvim-starter-kit/tree/java#neovim-starter-kit-for-java->\
 <https://www.youtube.com/watch?v=w7i4amO_zaE>
 
 ## Usage:
